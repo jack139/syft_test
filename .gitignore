@@ -18,8 +18,10 @@ eggs/
 lib/
 lib64/
 
+.envfile
 ckpt/
 data/
+datasets/
 build/
 colab/
 *.weights
